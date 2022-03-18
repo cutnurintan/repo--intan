@@ -2,3 +2,5 @@ nama : cut nur intan maulana
 nim : 6701202126
 tempat & tgl lahir : Langsa, 08 Januari 2001
 ipk : 3.71
+hobi : nonton
+cita-cita : database administrator
