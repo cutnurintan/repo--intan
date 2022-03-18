@@ -1,0 +1,4 @@
+ip semester 1 = 3.78
+ip semester 2 = 3.95
+ip semester 3 = 3.71
+ip semester 4 = 0
